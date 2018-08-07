@@ -1,2 +1,2 @@
-# wireworld
-making wireworld cellular automaton
+# wireworld shader
+just a bit of fun
